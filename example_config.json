@@ -1,0 +1,15 @@
+{
+    "SLACK_BOT_TOKEN": "xoxb-",
+    "SLACK_APP_TOKEN": "xapp-",
+    "ADMIN_UID": "U000000",
+    "TRIVIA_CHANNEL": "C000000000",
+    "BOT_DISPLAY_NAME": "Trivia Bot",
+    "BOT_ICON_EMOJI": ":panda_face:",
+    "DISPLAY_NAME_CACHE_EXPIRE_SECONDS": "21600",
+    "MIN_MATCHING_CHARACTERS": "5",
+    "TRIVIA_DATABASE_PATH": "trivia.db",
+    "MIN_SECONDS_BEFORE_NEW": "60",
+    "SCOREBOARD_SCHEDULE": "[{\"for\": {\"days_ago\": 1}, \"time\": {\"hour\": 7, \"minute\": 0}}]",
+    "SCOREBOARD_SHOW_INCORRECT": "0",
+    "SCOREBOARD_SHOW_PERCENT": "0"
+}

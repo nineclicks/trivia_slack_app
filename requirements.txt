@@ -1,0 +1,2 @@
+slack_sdk>=3.33.1
+git+https://github.com/nineclicks/trivia_core.git
